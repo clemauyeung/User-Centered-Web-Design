@@ -93,12 +93,34 @@ Process
 
 ### Come up with research goals and questions and pick appropriate methods
 
+We looked at our assumptions and gaps and gathered the most important questions to answer.
 
+Research goals
+* Find the overlap between what the business wants customers to do vs. what customers actually do on the website
+* See how the website is/isn't meeting customers' most important tasks
+* Uncover focus areas of improvement for the website
+
+Research questions
+* Why do people come to Central Cinema? What are their top tasks?
+* What information is most important to the business?
+* How should the information be grouped?
+* How do people feel about Central Cinema and its website? What words do they use to describe it?
+* How do people purchase tickets? What is the ratio between online and offline sales?
+
+Research methods
+* User interviews - Clem
+* Survey - Setu
+* Analytics - Nikhil
+* Usability testing - Spencer
+* Contextual inquiry - Demi
+* Card sort - everyone
 
 ## Next steps
 
-
-
-
-
-
+Action items
+* Prepare Welcome / Kickoff packet to introduce our team, set expectations, and manage communication and schedules. -- Monday -- Clem
+* Meet with Kevin to learn about business goals and get data from server logs, usage analytics, and customer emails. -- Monday -- Team
+* Create a survey to send out to customer newsletter -- Wednesday -- Demi
+* Plan for interviews/contextual inquiry -- Saturday/Sunday -- **no owner yet**
+* Finalize project plan -- Friday -- Clem
+* Choose 4 businesses for competitive analysis -- Friday -- Demi, Spencer, Setu, Nikhil
