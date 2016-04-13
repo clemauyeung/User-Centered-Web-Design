@@ -16,7 +16,7 @@
 
 Our team went to Central Cinema to meet Kevin on-site to do client research. Everyone took notes. We learned about the business and its customers that frankly upturned some of our earlier assumptions.
 
-### Below are Demi's notes. They are condensed and edited for clarity.
+### Below are Demi's notes. 
 
 Brand + Business Goals:
 * About CC
@@ -59,7 +59,7 @@ Customers/Users:
 * Repeat customers often buy at the door
 * Kickstarter “Keep Central Cinema Fun” -- 3 years ago, digital cinema changeover and it was necessary to upgrade 
 
-### Below are Spencer's notes. They are condensed and edited for clarity.
+### Below are Spencer's notes. 
 
 Brand + Business Goals:
 * How do you describe Central Cinema?
@@ -132,7 +132,83 @@ Customers/Users:
 * How do most people find out about you?
  * The Stranger, not for tourists guides, “weekly” publications
 
-### Below are Clem's notes. They are condensed and edited for clarity.
+### Below are Clem's notes. 
+
+Business/brand - could you describe the business?
+* Central Cinema (CC) is a neighborhood theater. It’s going out spot that people go out of the way to come here. 
+* We go to some other neighborhood to go out, why can’t we have some place like this in Central District (CD)?
+* Beer theater don’t exist in Seattle. We saw in Portland, why not in Seattle? Movie doesn’t really matter, just the beer. Felt Seattle was lacking it.
+
+Revenue stream:
+* 1/3 ticket sales, 2/3 restaurant sales
+* Channels - ticket sales on the website and at the door.
+ * Encourage online sales because it’s advanced sales -- less [?] if bought earlier, online
+ * Sing alongs sell out way in advance
+ * Helps with planning and staffing so we’re not surprised.
+* We try to sell 3x more ticket sales online usually
+ * It’s good because customers make plans ahead of time. Kind of like season ticket holders. 
+ * Group planning is hard. Don’t want to make last minute plans.
+ * Usually put 2 months out for ticket sales. 
+  * Kevin do monthly get together to figure out what program will fit. In meeting with Doug, we decide based on gut feel. We have been doing this for a long time.
+  * We sometimes bring popular things back
+  * We try different combos and think about how to do complete sets
+  * The point is not to have everything - like Netflix people scroll through. Make it easier on people to choose. Menu change up too. 
+  * We put packs of tissues if movie is sad. White Russians for Big Lebowski. We extended movie with David Bowie when he died. 
+
+Audience:
+* People who live in houses are more of a homebody, so it’s hard to draw people in houses around here. People in apartments go out more.
+* More women than men
+ * 30s-40s, some 20s - because we play cult classics
+ * Appeal to nice evening out. Not so much film purists because they tend to be less social
+ * Try not to overlap with Pride - rather play movies leading up to it as warm up
+* We don’t really have a target. Appeal to lots of different people.
+ * Loyal customers - older retired guy, couple from bainbridge, families that don’t miss the cartoon HH
+ * People who fall into a niche
+ * They usually like to relive something fun. They grew up with the film and want to introduce it to their kids. Extended Labrynth when Bowie died - make it special
+ * Launched a Kickstarter campaign for a new projector - title “Keep CC fun with digital projector upgrade”
+
+Top goals for website:
+* Display upcoming shows
+ * Help people find tickets for those
+ * Use ticking system TicketBiscuit
+* Highlight/spotlight special events
+ * Cartoon Thursdays Happy hour
+ * Other events that’s not ticketed like neighborhood block party
+* Info about the dinner theater
+ * Current menu and cocktail menu
+ * Location - people used to ask “is it safe to go there” because of contentious history of the area
+  * Visitors - mainly around here: Beacon Hill, Capital Hill, Central District, Madrona
+
+Channels/social media:
+* Email newsletter 1x per week
+  * Get ideas from people
+* Facebook is good reinforcement
+ * For announcement
+ * Downside if people don’t spend time doing other things
+* Instagram is fun
+  * Avoid being too commercial - like other businesses who just post about themselves
+ * Made a photoshop mashup of movies
+* Getting RSVPs is hard
+ * People have a habit of not showing up 
+ * It’s like a reminder
+
+What success means - outcomes beyond wildest dreams:
+* Website is seamless and beautiful
+ * Right now it has too many layers
+* Increase advanced ticket sales
+* Increase newsletter sign ups 
+ * Currently have 7000 subscribers
+ * Get people thinking about CC and give them ideas for things to do
+ * Notify them and serve as reminder to drive people to the website
+
+### Below are Nikhil's notes. 
+
+
+
+
+
+
+
 
 
 
