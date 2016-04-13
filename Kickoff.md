@@ -16,7 +16,9 @@
 
 Our team went to Central Cinema to meet Kevin on-site to do client research. Everyone took notes. We learned about the business and its customers that frankly upturned some of our earlier assumptions.
 
-### Below are Demi's notes. 
+Below are our team's notes. They are edited and condensed for clarity.
+
+### Demi's notes 
 
 Brand + Business Goals:
 * About CC
@@ -59,7 +61,7 @@ Customers/Users:
 * Repeat customers often buy at the door
 * Kickstarter “Keep Central Cinema Fun” -- 3 years ago, digital cinema changeover and it was necessary to upgrade 
 
-### Below are Spencer's notes. 
+### Spencer's notes 
 
 Brand + Business Goals:
 * How do you describe Central Cinema?
@@ -132,7 +134,7 @@ Customers/Users:
 * How do most people find out about you?
  * The Stranger, not for tourists guides, “weekly” publications
 
-### Below are Clem's notes. 
+### Clem's notes 
 
 Business/brand - could you describe the business?
 * Central Cinema (CC) is a neighborhood theater. It’s going out spot that people go out of the way to come here. 
@@ -201,20 +203,72 @@ What success means - outcomes beyond wildest dreams:
  * Get people thinking about CC and give them ideas for things to do
  * Notify them and serve as reminder to drive people to the website
 
-### Below are Nikhil's notes. 
+### Nikhil's notes 
 
+How would you describe Central Cinema?
+* “Neighborhood going out spot."
+* “Neighborhood dinner theatre."
+* “For the neighborhood by the neighborhood"
+* Movies + Beer + Food + Social fun!
+* Just the fact that you can have a few beers, kick back with a movie and eat a sandwich!
 
+Revenue stream:
+* Primary stream:  1/3 ticket sales, 2/3 restaurant sales
+* Sales channels: Online Ticketing through website, also at the door.
+ * 1/3 books online in advance, 2/3 at the door.
+ * Expect to triple the advanced sale at the door.
+ * Trying to promote online sales more by offering $2 discount.
+ * Sales go online 2 months ahead of time.
+* Advantages to book online: Good to have customers plan ahead, because the plans are made. 
+ * It also helps predict the kind of crowd that comes on a particular day. Helps with staffing and predictability.
 
+Feelings that customers need to feel:
+* Each movie is aimed at different crowds.
+ * Movies are curated on a monthly basis, and updated every month, showing what is going to show 2 months in advance.
+* They give people quirky props and items, depending on the movie.
+* Menu also might be modified to add things based on movie playing.
+ * “White Russian” for when big lebowski was playing.
+ * Little changes to make the experience nicer (delight factor).
 
+Top goals for the website:
+* Users should be able to clearly see what shows are coming up and find a way to buy tickets. (Right now the ticketing system had a calendar feed, spotlight, etc.)
+ * “TicketBiscuit” - the ticketing system they use.
+ * “It’s nice to have to only put that information in once, instead of having to type it over and over."
+* “Spotlight” to highlight other events (non-ticketed), like neighborhood parties, happy hours. (Thursdays - cartoon happy hours, sports events)
+* Something to describe the fact that they are a dinner theater, to show menus, and cocktail menus.
+ * Location is important because central district isn’t well known.
+  * Visitors come from all over the city, but mainly the core neighborhoods: Capitol Hill, U-district, Beacon Hill, etc.
 
+Customers:
+* Slightly skewed towards women, than men
+* 30s and 40s age group
+* A fair amount in the 20s, but mostly older because they play cult and classic movies.
+ * A lot of city people.
+ * They try to spread the programming around so they get different demographics.
+* Try to curate events based on what’s going on around the city.
+ * Trying to appeal to the customers who just want a nice movie out and want to have a good time
+ * Also have customers who are film purists, etc. 
+* Loyal customers - yes. Different groups for each kind of events. Loyal families with kids for cartoon night, etc.
 
+**“Seamless and beautiful for people to just come there, find shows, book it"**
 
+Ideally, the website should:
+* Increase online advance ticket sales
+* Increase email newsletter signup
+ * Newsletter serves as a reminder that Central Cinema exists as a good weekend hangout choice.
+ * Newsletters are weekly
+ * They drive people to the website.
 
+### Setu's notes -- they are on paper :(
 
+## Reflection
 
-
-
-
-
+Overall, we had tons of fun learning about our client. We covered busienss goals, sucess metrics, and customer profile. What we might do differently is to designate a client lead and have him/her lead the questioning and keep us on track. We plan to go back to Central Cinema over the weekend to experience the magic for ourselves!
 
 ## Next Steps
+
+* Synthesize our notes from client meeting
+* Create a survey to send out to Central Cinema's newsletter readers
+* Inform client about website data we want to look at
+* Perform competitive analysis (everyone pick one)
+* Discuss what should go into our Project Plan
