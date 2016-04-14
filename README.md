@@ -8,6 +8,16 @@ This is where I will be documenting our process -- our behind the scenes work. I
 
 By writing down what we have learned, decided, and been doing, I will be able to share our work in progress in a meaningful way.
 
+## Team
+
+![Team posing in front of Central Cinema] (/images/Kickoff-Central-Cinema.jpg)
+
+- [Spencer James] (https://spencerleejames.wordpress.com/?s=james)
+- [Demi Boe] (http://www.demiboe.com/)
+- [Nikhil Venkatesh] (http://nvenk.com/)
+- [Setu Kathavate] (https://www.linkedin.com/in/setumadhavagk)
+- [Clem Auyeung] (https://clemauyeung.com/)
+
 ## About Me
 
 I'm a Master's student in the Human Centered Design & Engineering program at the University of Washington. [My team] (https://www.instagram.com/p/BEFwdhFP4LA/?taken-by=clemauyeung) and I are currently in the User Centered Web Design course, and we are working with Central Cinema to redesign their website. 
