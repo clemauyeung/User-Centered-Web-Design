@@ -18,7 +18,7 @@
 
 ## Summarize and synthesize research notes
 
-![Affinity diagramming themes](/Users/clemauyeung/Documents/GitHub/User-Centered-Web-Design/images/meeting2-affinity1.jpg) 
+![Affinity diagramming themes](/images/meeting2-affinity1.jpg) 
 
 
 
