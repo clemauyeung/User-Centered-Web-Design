@@ -22,11 +22,11 @@
 
 We first talked about how it went and some of the themes we noticed. We each wrote some of the more particular findings on post-it notes and used affinity diagramming to arrive at common themes. Then we organized those themes within the VMT framework developed by [Scott Kubie] (http://kubie.co/vmt/). The framework quickly helped us make our synthesis more concrete, but they are only hypotheses at this point.
 
-Vision
+**Vision**
 - Neighborhood theater where people can relive their favorite movie experiences and share them with new people.
 - When the vision is realized, it means that people would have a place where films are not just seen but experienced.
 
-Voice (experience attributes)
+**Voice (experience attributes)**
 - Nostalgia
 - Fun
 - Delight
@@ -35,17 +35,17 @@ Voice (experience attributes)
 - Off-beat
 - Personalized
 
-Mission
+**Mission**
 - Central Cinema will deliver tightly-curated experiences that hosts fun, off-beat themed events that you can't find anywhere else.
 - It will curate all aspects of the theatre experience including movies, food, and drinks.
 
-Messages
+**Messages**
 - Central cinema is the place to go for a fun night out with your friends while reliving your favorite cult classics.
 - Relive your favorite nostalgic movies with your friends over some great food and drinks at your fun, friendly neighborhood theater.
 - Not your ordinary movie experience.
 - It's PEOPLE'S theatre.
 
-Target
+**Target**
 - Audiences
   - Current customers are people in their 30s-40s who love cult classics and value off-beat experiences.
   - They love non-mainstream movies and "active" movie watching.
@@ -60,7 +60,7 @@ Target
 
 Then after synthesizing and verbalizing what we've all learned, we condensed our findings into business goals and website goals. Business goals would be translated into success metrics that we should aim for; Website goals would be translated into requirements our solutions should fulfill.
 
-Business goals
+**Business goals**
 - Increase online and advance ticket sales
   - Increase conversion of people’s interest to ticket purchases
 - Increase engagement
@@ -68,7 +68,7 @@ Business goals
   - Increase newsletter signups
 - **Mitigate risks** around staffing, no-shows, volume of traffic
 
-Website goals
+**Website goals**
 - “Beautiful, seamless experience”
 - Users should be able to see which shows are coming up and purchase tickets for them (through TicketBiscuit)
 - Highlight food/cocktail menus
