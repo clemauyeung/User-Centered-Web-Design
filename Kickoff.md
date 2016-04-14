@@ -14,6 +14,8 @@
 
 ## Discussion
 
+![Kickoff meeting with client](/images/Kickoff-Client.jpg) 
+
 Our team went to Central Cinema to meet Kevin on-site to do client research. Everyone took notes. We learned about the business and its customers that frankly upturned some of our earlier assumptions.
 
 Below are our team's notes. They are edited and condensed for clarity.
