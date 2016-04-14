@@ -85,8 +85,8 @@ During the business discovery interview, we found that the audience were niche a
 We plan on corroborate our survey data with ones the client will (cross our fingers) supply us with – mainly, web analytics. 
 
 **Our goals**
-1. Uncover top tasks to see what users want to do vs. what the business wants to do
-2. How the website is meeting or not meeting users' tasks and focus on top areas of improvement
+  1. Uncover top tasks to see what users want to do vs. what the business wants to do
+  2. How the website is meeting or not meeting users' tasks and focus on top areas of improvement
 
 **Demographics**
 - Age
