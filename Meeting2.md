@@ -18,6 +18,7 @@
 
 ## Summarize and synthesize research notes
 
+![Affinity diagramming themes](https://drive.google.com/open?id=0B-1lfnxJ_APKZmFidGpLbTJWQW8) 
 
 
 
