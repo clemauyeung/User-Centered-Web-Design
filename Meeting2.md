@@ -78,8 +78,55 @@ Then after synthesizing and verbalizing what we've all learned, we condensed our
 
 ## Brainstrom survey questions
 
+Our research goals were to get a broad understanding of who our customers are, what they do once they get to the website, and how often that happens. One big question we still had was "who are our customers?" 
 
+During the business discovery interview, we found that the audience were niche and depended on the particular showings, so that made it difficult to segment and hone in on our target users. Since we already knew the website needed major reorganization and possible pruning, it was crucial that we understand the top tasks and know how to prioritize them.
 
+We plan on corroborate our survey data with ones the client will (cross our fingers) supply us with – mainly, web analytics. 
 
+**Our goals**
+1. Uncover top tasks to see what users want to do vs. what the business wants to do
+2. How the website is meeting or not meeting users' tasks and focus on top areas of improvement
 
+**Demographics**
+- Age
+- Gender
+- Neighborhood
+
+**Frequency**
+- When was the last time that you used the website to buy a ticket? How far in advance?
+- How frequently do they visit the website? 
+- How many times have you been to Central Cinema in the last 6 months?
+
+**Channels / Web behavior**
+- How people are currently buying tickets -- online or at the door? 
+- What prompted you to the website? What did you do once you got there?
+- What content did you look at? 
+- What was the experience of buying tickets like?
+
+## The kinds of data we need from the Wordpress site
+
+- **Top Pages**
+- **SEO data**
+- **Navigation paths**
+- **Referrals** 
+- All time views (view history)
+- Repeat views 
+- Device types
+- **Customer emails**
+
+## We ran out of time :(
+
+We didn't get to these action items, so we will plan to address these in class
+- Decide who the competitors are and which ones to use for competitive analysis
+- Fill out as much of the Project Plan as we can
+
+##Next Steps
+
+- Create survey for team to review -- by Wednesday --  Demi is the owner
+- Email Kevin about data request, sending out survey link, offer to install Google Analytics -- by Wednesday -- Spencer is the owner
+- Find easy tutorial about Google Analytics for Client -- by EOD Tuesday -- Nikhil is the owner
+- Choose a business for competitive analysis -- by Wednesday -- Demi, Nikhil, Setu, Spencer
+- Start filling out Project Plan -- Clem
+- Start content inventory -- Clem
 
