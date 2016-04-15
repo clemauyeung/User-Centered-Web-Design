@@ -2,7 +2,11 @@
 
 ## Team members present
 
-
+- Spencer
+- Demi
+- Nikhil
+- Setu
+- Clem
 
 ## Agenda
 - Discuss pros/cons of each research method
@@ -12,6 +16,14 @@
 ## Discussion
 
 This wasn't our normal meeting as we were given time during class to meet with our group. For an assignment, we each picked a research method and came up with pros/cons for the method. This assignment was supposed to inform our user research plan and make sure our methods were appropriate for the given gaps in our understanding, the business goals, and our constraints.
+
+| Method | Advantages | Disadvantages | 
+|--------|------------|---------------|
+|Usability testing | 
+|Server logs
+|Contextual inquiry |
+|User interviews |
+| Survey | 
 
 We also took this opportunity to finalize the survey that the client will send out to its newsletter subscribers. But...this led to the question of, "What are the most important questions to answer right now?"
 
@@ -38,3 +50,8 @@ Our "A" questions were:
 | If people didn't buy tickets online, why not? | This is essentially a behavior change question. The business goal is to get more people to buy (advanced) tickets online, so it's important to understand what holds people back and their questions/concerns. | Interview
 | How did people decide to go to a (specific) event? | If we understand how they heard about it or what prompted them to go, we can prioritize the most important channels to consider. | Interview
 
+We used this understanding to finesse our [survey questions] (https://docs.google.com/forms/d/1ngEsb9Kl9o3FQ0Loq_mi5kzaSb4Snl1TD08W84kCeHI/viewform).
+
+This discussion also helped us focus on the questions we should answer during our "site visit" aka going to see a movie at Central Cinema. We plan to do customer intercepts before the movie, observe the actual demographic of a show (probably Shaun of the Dead), and *maybe* ask people to pull up the Central Cinema site and tell us how they might buy a ticket/feel about using it.
+
+## Next Steps
