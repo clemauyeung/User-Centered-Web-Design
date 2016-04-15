@@ -19,8 +19,8 @@ This wasn't our normal meeting as we were given time during class to meet with o
 
 | Method | Advantages | Disadvantages | 
 |--------|------------|---------------|
-|Usability testing | 
-|Server logs |
+|Usability testing | Participants represent real users who do real tasks. Think aloud technique give us real-time info about their thought process as they do the tasks. The technique could be adapted between in-lab/field/remote and moderated/unmoderated. | Participant recruitment is time-consuming. Testing with the "wrong" subgroup could skew data. Some participants are not good at think aloud technique, and if so, it would be harder to elicit the right responses. There are some artificiality involved so data might be insightful but may not be accurate. Choosing the "wrong" metric will give you inaccurate data. But some data can't be obtained from observation - like how they feel about the way a website was organized. | 
+|Server logs | 
 |Contextual inquiry |
 |User interviews |
 | Survey | 
