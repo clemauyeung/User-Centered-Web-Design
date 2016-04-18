@@ -12,7 +12,7 @@
 
 - Set time and (research) logistics to go to Central Cinema this Saturday
 - Discuss everyone's competitive analysis (the good/bad)
-- Go over sections in Project Plan that need group decision (prupose, goals, project timeline, in-scope/out-of-scope, assumptions/constraints)
+- Go over sections in Project Plan that need group decision (purpose, goals, project timeline, in-scope/out-of-scope, assumptions/constraints)
 
 ## Discussion
 
@@ -55,12 +55,33 @@ The bad:
 **Sundance Cinemas**
 
 The good:
-- 
+- Clear calls-to-action and highlighting the menu
+- Movies that are currently showing are highlighted on the page (but not labeled)
+- Since Sundance is a franchise, it does a good job of highlighting all the other locations
 
-Big Picture Movie Theatre
+The bad:
+- Website is not optimized for mobile - it's not responsive, and performing some actions on the mobile site could lead to some content or menu cut off from the screen
+- IA is generally confusing - the navigation is not obvious
+- Top tasks (one could expect) are completed by pop-up menus/dialog boxes, which covers the entire site and obscures the content underneath
+- Text and images are generally small, and this might cause readability issues
+- The visual experience of the website doesn't live up to the upscale experience of visitng Sundance
 
+*Big Picture Movie Theatre*
 
+The good:
+- Value proposition and messaging is clearly displayed on the homepage
+- Media reviews on the homepage shows social proof and good ratings
+- Movie showtimes are clear and easy to understand
 
+The bad:
+- The website is poorly designed, and the upscale brand doesn't translate online
+- The website is text heavy, and the color palette seems to clash
+- IA is very deep and might not help users quickly navigate to the right page/content or recover from errors
+- The images are oddly-sized and it's not engaging to look at them
+
+## Project Plan
+
+We went over the document as a group to revise/give feedback on the draft. The completed [Project Plan] (https://drive.google.com/file/d/0B5HWOOZbwIIzelJyZldiOV9Vbnc/view?usp=sharing) is accessible through the link.
 
 ## Next steps
 
