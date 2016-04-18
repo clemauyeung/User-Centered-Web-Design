@@ -55,3 +55,7 @@ We used this understanding to finesse our [survey questions] (https://docs.googl
 This discussion also helped us focus on the questions we should answer during our "site visit" aka going to see a movie at Central Cinema. We plan to do customer intercepts before the movie, observe the actual demographic of a show (probably Shaun of the Dead), and *maybe* ask people to pull up the Central Cinema site and tell us how they might buy a ticket/feel about using it.
 
 ## Next Steps
+
+- Write a draft of Project Plan to be discussed on next meeting [due Friday] -- Clem
+- Email client survey to put in the newsletter and follow up about getting data [due Thursday] -- Spencer
+- Complete competitive analysis of of 1 business [due Friday] -- Demi, Spencer, Setu, Nikhil
