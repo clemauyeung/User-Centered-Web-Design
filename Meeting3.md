@@ -79,6 +79,10 @@ The bad:
 - IA is very deep and might not help users quickly navigate to the right page/content or recover from errors
 - The images are oddly-sized and it's not engaging to look at them
 
+### What we learned
+
+
+
 ## Project Plan
 
 We went over the document as a group to revise/give feedback on the draft. The completed [Project Plan] (https://drive.google.com/file/d/0B5HWOOZbwIIzelJyZldiOV9Vbnc/view?usp=sharing) is accessible through the link.
