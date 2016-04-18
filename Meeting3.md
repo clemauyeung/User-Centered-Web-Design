@@ -66,7 +66,7 @@ The bad:
 - Text and images are generally small, and this might cause readability issues
 - The visual experience of the website doesn't live up to the upscale experience of visitng Sundance
 
-*Big Picture Movie Theatre*
+**Big Picture Movie Theatre**
 
 The good:
 - Value proposition and messaging is clearly displayed on the homepage
