@@ -1,4 +1,4 @@
-# Emergency Meeting (Meeting 4)
+# Meeting 4 (Emergency Meeting)
 
 ## Team members present
 
