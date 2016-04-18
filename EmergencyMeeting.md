@@ -1,4 +1,4 @@
-# Emergency Meeting
+# Emergency Meeting (Meeting 4)
 
 ## Team members present
 
@@ -23,6 +23,7 @@
 
 **Questions we still need answers for:**
 
+- How people use the Central Cinema's website to buy tickets? Any recurring issues and how severe are they (or how critical are they to accomplishing the task)?
 - Within our demographic profile, how do people make plans with other people and with whom (spouses, kids, groups of friends)?
 - Sequencing of behavior -- what's users' mental models around deciding to and buying tickets?
 - How do people think about unique shows/events -- how do their behavior change based on whether the show/event is a "destination" or something you might do to "hangout on a Saturday night"?
