@@ -96,7 +96,10 @@ We didn't use performance metrics, only self-reported assessment of participants
 
 **Implications:**
 - We might need to make the messaging more prominent to show Central Cinema is a dinner theatre. 
-- 
+- The navigation may need to be consolidated and relabeled, and offer easier paths to complete most frequent tasks.
+- The calendar format may not be appropriate for displaying movie times.
+- We may need to better prioritize location information or make it easily accessible throughout all the pages. 
+- Better differentiation of categories may be needed to signal what tasks could be achieved.
 
 ### Heuristic Evaluation
 
