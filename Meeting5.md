@@ -72,6 +72,32 @@ Below are our findings and insights!
 
 ### Guerrilla Usability Testing
 
+**Summary:** We conducted usability tests with 3 participants aged between 21-44 years old, at the University of Washington and at a cafe. Our goal was to understand pain points around using the website, including ease of locating movie tickets, paths to purchasing tickets, and the type of info people were looking for. We studied participants running through 5 task scenarios using the Central Cinema website. We sought to answer the following questions:
+
+- Can users find movie showtimes easily? More specifically, can they navigate to the right location to find specified dates? 
+- How easily can users find where and how to buy tickets online?
+- Can users quickly find the location information for Central Cinema?
+- Are users able to navigate to the food menu?
+- How quickly can users find help when they need it?
+
+We didn't use performance metrics, only self-reported assessment of participants' experience.
+
+**Findings:**
+- Participants didn't realize Central Cinema served restaurant-style food, not just concessions.
+- The website was hard to navigate.
+  - The navigation bar contained too many items that made it hard to find what people wanted.
+  - The headings of navigation were sometimes confusing (i.e. confusion over the difference between FAQ and Contact Us).
+- Movie times were not easy to find.
+  - The calendar was hard to use. It was too complicated.
+  - There were 3 different ways of getting the same info so participants were confused whether they were using the right ones. (You can buy tickets using "Buy Tickets," "Upcoming Shows," and Calendar format.)
+- Critical info were hard to find.
+  - Participants couldn't find were Central Cinema were located. (All users missed the "Getting Here" label in the navigation.)
+  - Participants were confused over the difference between FAQ and Contact us, and 2 participants assumed the contact info would be at the footer instead.
+
+**Implications:**
+- We might need to make the messaging more prominent to show Central Cinema is a dinner theatre. 
+- 
+
 ### Heuristic Evaluation
 
 ### Contextual Inquiry (Setu)
