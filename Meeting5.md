@@ -70,6 +70,10 @@ Below are our findings and insights!
 - If we better integrate social media channels into the site, we could spread contextual info about each show across the channels consistently. This way, the channels will be better aligned with the website (and could be integrated with the ticket purchase process).
 - Display location info prominantly if users search for this info frequently.
 
+### Guerrilla Usability Testing
+
+### Heuristic Evaluation
+
 ### Contextual Inquiry (Setu)
 
 **Summary:** We went to Central Cinema on a Saturday night showing of Shaun of the Dead because it was supposed to be the busiest day (according to Google Search). The purpose is to observe the demographic, what they did in the space, and get an overall feel for the entire theatre experience.
