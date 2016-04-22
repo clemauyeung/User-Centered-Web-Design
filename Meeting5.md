@@ -49,6 +49,26 @@ Below are our findings and insights!
 
 ### User Interviews (Clem)
 
+**Summary:** We interviewed 3 participants around University of Washington at the beginning of each guerrilla usability tests. We didn't focus so much on getting the right demographic of participants as much as getting as much information as possible due to time constraints. We asked the following questions (besides demographic info):
+
+- What kinds of events do you buy tickets for? Why?
+- How did you find the event/show?
+- How did you choose the theatre?
+
+**Findings:**
+- Participants watched movies more frequently at home than watching movies theatres. They treated going to the theatre as a special occasion. Going to theatre with friends is an added benefit that seem to motivate participants to choose to watch a movie at the theatre rather than at home.
+- They prefer watching a big movie release at the theatre. They are more likely to buy tickets for them because they are afraid that tickets will sell out.
+- They find out about the movie primarily through word-of-mouth, but goes online or to social media to search for more info about it. One participant "stars" events she's interested in to "save" the event.
+- All participants we interviewed said location is important – they pick a theatre based on which ones were closest to them.
+- One mentioned she had a giftcard to a specific movie theatre so she chooses to go there.
+
+**Implications:**
+- None of the participants have been to Central Cinema, and they don't frequently watch movies, so they might be potential customers.
+- The redesign should consider making bringing friends a priority or supporting referrals during consideration phase of the sales process.
+- Highlighting the most popular shows and displaying social proof could make them seem more like a special occasions. If people search for the most popular shows, then we might be able to help them discover less popular or related shows. 
+- Visually signify that certain shows are special (e.g. Sing-Alongs) or differentiate them the more regular events like cult movie showings.
+- If we better integrate social media channels into the site, we could spread contextual info about each show across the channels consistently. This way, the channels will be better aligned with the website (and could be integrated with the ticket purchase process).
+- Display location info prominantly if users search for this info frequently.
 
 ### Contextual Inquiry (Setu)
 
