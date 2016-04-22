@@ -34,6 +34,8 @@ Below are our findings and insights!
 - Kevin initially started the business to bring the concept of "Beer Theatre" to Seattle, which he felt were lacking after visiting Portland.
 - The type of customers it attracts seems to be dependent of the particular show.
 - Its primary revenue stream is restaurant sales and the remaining from ticket sales. This means that the primary revenue stream is dependent on the lesser revenue stream, which is a huge risk for the sustainability of the theatre.
+- The primary goal for the redesign is to increase advanced ticket sales online. This is done to help the business plan ahead and resource accordingly. Usually more popular shows like Sing-Alongs are sold out about a month in advance.
+- There has been a fair amount of complaints about the TicketBiscuit ticketing module that's integrated into the website. They have gotten complaints about the calendar displaying upcoming shows and customers who had accidentally bought tickets for the wrong day.
 - Central Cinema uses multiple social media channels to reach their audiences, including Facebook, Instagram, and Twitter. The engagement on those platforms seem to be pretty high.
 
 **Implications:**
@@ -42,6 +44,7 @@ Below are our findings and insights!
 - Each show might need to be more targeted rather than aimed towards a "general audience." Audience segments may need to be prioritized to reflect revenue generation. If Sing-Alongs and Cartoon Happy Hours are bigger revenue generators, they might need to "headline" the website while it fill in gaps with "smaller acts." 
 - Also, since the audience may span multiple subgroups, the website needs to accommodate channels that overlap with the most subgroups to focus on the most important ones.
 - There is a huge opportunity to use the website as a primary driver of sales at the top of the sales funnel. This might de-risk dependency on bringing enough people in to sustain their primary revenue stream.
+- TicketBiscuit seems to be a technical constraint of the redesign. It needs to be better integrated into the site or the redesign should addreess how to rely less on TicketBiscuit to provide essential info to users.
 - For the redesign, we may need to better integrate social media activities into the website instead of just limiting them on the sidebar.
 
 ### User Interviews (Clem)
