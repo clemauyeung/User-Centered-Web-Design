@@ -24,6 +24,29 @@ We met to share our findings and see if we could derive some themes and insights
 
 Below are our findings and insights!
 
+### Stakeholder Interviews (Nikhil)
+
+**Summary:** We interviewed Kevin, the owner of Central Cinema, and Brian, a staff who worked there for 4.5 years. We learned how they described the business in their own words, their business goals, the website design goals, the customer profile, and the channels they use to reach them.
+
+**Findings:**
+- Kevin mentioned the word "neighborhood" several times when describing the business, which suggests that the aspect of neighborhood, location, and/or community is important to him.
+- They tightly curate their movie selections, picking cult classics that will likely resonate with customers and fall appropriately in-line with events in the area, like Pride Week.
+- Kevin initially started the business to bring the concept of "Beer Theatre" to Seattle, which he felt were lacking after visiting Portland.
+- The type of customers it attracts seems to be dependent of the particular show.
+- Its primary revenue stream is restaurant sales and the remaining from ticket sales. This means that the primary revenue stream is dependent on the lesser revenue stream, which is a huge risk for the sustainability of the theatre.
+- Central Cinema uses multiple social media channels to reach their audiences, including Facebook, Instagram, and Twitter. The engagement on those platforms seem to be pretty high.
+
+**Implications:**
+- Since the concept of "neighborhood" is important to the DNA of the brand itself, the website might need to "act" neighborly as well -- such as promoting surrounding busiensses, enable/encourage customers to connect with each other, or provide relevant info about the area. It might need to more visually display pride of being located in Central District.
+- The staff don't *just* pick cult movies; they are thoughtful in the way they do it. So this needs to be communicated to the audience as a differentiating factor. The website should serve to enhance the emotional connections people have to certain movies.
+- Each show might need to be more targeted rather than aimed towards a "general audience." Audience segments may need to be prioritized to reflect revenue generation. If Sing-Alongs and Cartoon Happy Hours are bigger revenue generators, they might need to "headline" the website while it fill in gaps with "smaller acts." 
+- Also, since the audience may span multiple subgroups, the website needs to accommodate channels that overlap with the most subgroups to focus on the most important ones.
+- There is a huge opportunity to use the website as a primary driver of sales at the top of the sales funnel. This might de-risk dependency on bringing enough people in to sustain their primary revenue stream.
+- For the redesign, we may need to better integrate social media activities into the website instead of just limiting them on the sidebar.
+
+### User Interviews (Clem)
+
+
 ### Contextual Inquiry (Setu)
 
 **Summary:** We went to Central Cinema on a Saturday night showing of Shaun of the Dead because it was supposed to be the busiest day (according to Google Search). The purpose is to observe the demographic, what they did in the space, and get an overall feel for the entire theatre experience.
