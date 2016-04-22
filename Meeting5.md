@@ -70,7 +70,7 @@ Below are our findings and insights!
 - If we better integrate social media channels into the site, we could spread contextual info about each show across the channels consistently. This way, the channels will be better aligned with the website (and could be integrated with the ticket purchase process).
 - Display location info prominantly if users search for this info frequently.
 
-### Guerrilla Usability Testing
+### Guerrilla Usability Testing (Demi)
 
 **Summary:** We conducted usability tests with 3 participants aged between 21-44 years old, at the University of Washington and at a cafe. Our goal was to understand pain points around using the website, including ease of locating movie tickets, paths to purchasing tickets, and the type of info people were looking for. We studied participants running through 5 task scenarios using the Central Cinema website. We sought to answer the following questions:
 
@@ -101,7 +101,23 @@ We didn't use performance metrics, only self-reported assessment of participants
 - We may need to better prioritize location information or make it easily accessible throughout all the pages. 
 - Better differentiation of categories may be needed to signal what tasks could be achieved.
 
-### Heuristic Evaluation
+### Heuristic Evaluation (Spencer)
+
+**Summary:** We used Nielsen's 10 usability heuristics to conduct our evaluation. The evaluation was performed on central-cinema.com against 45 criteria, where for each criteria, possible ratings ranged from "Very Poor" to "Excellent" and assigned a point value from 1-5 (1=Very poor, 5=Excellent). The criteria was weighted based on importance, from 100% for high importance and 20% for low importance. The overall score was computed using the weighted sum.
+
+**Findings:**
+- The overall usability score was 63 out of 100.
+- This puts central-cinema.com in the "Moderate" category (between 49-69 points), which means users can use the site to complete the most important tasks but the user experience could be significantly improved.
+- Most significant areas for improvement are Homepage, Features and Functionality, Content & Text and Navigation.
+  - Homepage: There are too much content on the homepage which makes it somewhat unclear. There is no real overview of features and functionality; to find these would require some digging.
+  - Features and Functionality: TicketBiscuit integration with site is extremely cumbersome and clunky. Frequently used tasks are easily accessible but somewhat hard to find. Call to actions on homepage are  extremely ineffective; they're hard to see among rest of page content.
+  - Content and Text: The content is too detailed and too cluttered; They are not 'scannable'. The links are shown in context but they not discernable from headings in many cases.
+  - Navigation: The navigation is clearly labeled and will get you to where you want to go, but some pathways are confusing. (i.e. What is the difference between "Upcoming Shows" and 'Calendar"?)
+
+**Implications:**
+- We need to better prioritize content on the homepage to help users find the most relevant information. We should make these pathways visually and semantically clear with headings and labels. 
+- We should consider consolidating pathways to give users clearer ideas where to find critical info. Think about contextual menu options and info people frequently need to access on-the-fly.
+- Provide clearer call to actions to indicate where people should take action. This would direct people to take action when and where appropriate. 
 
 ### Contextual Inquiry (Setu)
 
