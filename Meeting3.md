@@ -1,4 +1,4 @@
-# Meeting 3
+# Meeting 3: Preparing for user research and analyzing competitors
 
 ## Team members present
 
@@ -87,7 +87,7 @@ The bad:
 
 We went over the document as a group to revise/give feedback on the draft. The completed [Project Plan] (https://drive.google.com/file/d/0B5HWOOZbwIIzelJyZldiOV9Vbnc/view?usp=sharing) is accessible through the link.
 
-## Next steps
+## Next Steps
 
 - Complete Project Plan and turn it in [due Saturday] -- Clem
 - Write up summary of the good/bad for competitive analysis [due Saturday] -- Demi, Spencer, Setu, Nikhil
