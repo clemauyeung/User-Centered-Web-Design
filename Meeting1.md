@@ -1,6 +1,6 @@
-# Meeting 1
+# Meeting 1: Prepare to meet with the client
 
-## Team members present
+## Team Members Present
 
 * Spencer James
 * Demi Boe
@@ -115,7 +115,7 @@ Research methods
 * Contextual inquiry - Demi
 * Card sort - everyone
 
-## Next steps
+## Next Steps
 
 Action items
 * Prepare Welcome / Kickoff packet to introduce our team, set expectations, and manage communication and schedules. -- Monday -- Clem
