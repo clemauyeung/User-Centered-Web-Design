@@ -1,4 +1,4 @@
-# Meeting 4 (Emergency Meeting)
+# Meeting 4: Emergency Meeting
 
 ## Team members present
 
@@ -32,7 +32,7 @@
 - Is there a relationship between conceptualizing Central Cinema as a "Neighborhood cinema" and motivation to buy tickets at the door? If this is *your* neighborhood, and the business mostly draws from the neighborhood, then there's less of a reason to buy tickets online when you can just walk a few blocks and get them at the door.
 - How does "community" values factor into the decision to buy tickets online? If you care about your community, you might also want to deal with people face-to-face rather than an impersonal web transaction. If you considers the theatre as a community space, it makes sense to invest time getting to know its members (in-person).
 
-## Next steps
+## Next Steps
 
 - Perform heuristic evaluation using Nielsen's 10 usability heuristics [due Wednesday] -- Spencer
 - Plan guerilla usability testing and user interview and execute it [due Wednesday] -- Demi, Clem
