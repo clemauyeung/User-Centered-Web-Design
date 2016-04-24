@@ -32,7 +32,7 @@ Although we followed all the steps, our group were still struggling with categor
 
 Once we plotted our current categories of users onto the 2x2 matrix, we narrowed our focus further to new custmers seeking a more romatic setting and repeat customers coming to Central Cinema in a group. We decided not to focus on repeat customers who were couples on a date because we felt their needs would be a subset of new customers who were looking for a romantic evening out. We also decided not to focus on new customers who were coming to the theatre as a group because it was more likely that at least 1 member of the group has been there before and the business seemed to be focused on drawing repeat customers.
 
-Update: Our client *finally* sent out our survey through the newsletter, so we now have some data on users' top tasks!
+**Update:** Our client *finally* sent out our survey through the newsletter, so we now have some data on users' top tasks!
 
 Some takeaways:
 
