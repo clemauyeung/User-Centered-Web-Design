@@ -14,7 +14,7 @@
 
 ## Discussion
 
-![Persona Workshop] (/images/Kickoff-Central-Cinema.jpg)
+![Persona Workshop] (/images/Persona%20Workshop.jpg)
 
 During class, we were led through a persona workshop by Kate Ramsey and Rebecca Shapiro from Nordstrom's UX team. The steps we took to create our potential personas were based on their workshop:
 
