@@ -1,6 +1,6 @@
-# Meeting 2
+# Meeting 2: Summarize what we learned about our client
 
-## Team members present
+## Team Members Present
 
 - Spencer
 - Demi
@@ -16,7 +16,7 @@
 - Decide who the competitors are and which ones to use for competitive analysis
 - Fill out as much of the Project Plan as we can
 
-## Summarize and synthesize research notes
+## Summarize and Synthesize Research Notes
 
 ![Affinity diagramming themes](/images/meeting2-affinity1.jpg) 
 
@@ -76,7 +76,7 @@ Then after synthesizing and verbalizing what we've all learned, we condensed our
 - Encourage people to sign up for newsletter
 - Easy to find location / contact info
 
-## Brainstrom survey questions
+## Brainstrom Survey Questions
 
 Our research goals were to get a broad understanding of who our customers are, what they do once they get to the website, and how often that happens. One big question we still had was "who are our customers?" 
 
@@ -104,7 +104,7 @@ We plan on corroborate our survey data with ones the client will (cross our fing
 - What content did you look at? 
 - What was the experience of buying tickets like?
 
-## The kinds of data we need from the Wordpress site
+## The Kinds of Data We Need from the Wordpress Site
 
 - **Top Pages**
 - **SEO data**
