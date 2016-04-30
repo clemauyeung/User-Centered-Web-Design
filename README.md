@@ -38,8 +38,14 @@ If you happen upon this and want to give me feedback or encouragement, you can r
 
 * Meeting 4
 
+* Research Notes
+
 * Meeting 5
+
+* Meeting 5.5
 
 * Meeting 6
 
 * Meeting 7
+
+* Lessons Learned
