@@ -28,8 +28,18 @@ If you happen upon this and want to give me feedback or encouragement, you can r
 
 * Meeting 1: Preparing to meet our client
 
-* Kick-off meeting with the client
+* Kick-off: Meeting with the client
 
 * Meeting 2: Analyzing the results of business discovery
 
+* Meeting 2.5: Emergency Meeting
 
+* Meeting 3
+
+* Meeting 4
+
+* Meeting 5
+
+* Meeting 6
+
+* Meeting 7
