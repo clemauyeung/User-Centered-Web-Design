@@ -75,3 +75,4 @@ We discussed what we needed to include in our personas, including things we shou
 - Clem write content for Planning Pam
 - Nikil create visual design of persona
 - Setu and Demi edit persona content
+- Setu set up OptimalSort (create account)
