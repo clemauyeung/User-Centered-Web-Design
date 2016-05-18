@@ -16,9 +16,11 @@
 
 ## Discussion
 
+### Personas
+
 We discussed what we needed to include in our personas, including things we should highlight for goals, frustrations/pain points, and needs. After, we named our personas as shown below:
 
-*Dating Dave / Boyfriend Brad* - "craft beer guy," "good dates"
+**Dating Dave / Boyfriend Brad** - "craft beer guy," "good dates"
 
 - Demographics:
   - early 30's
@@ -40,7 +42,7 @@ We discussed what we needed to include in our personas, including things we shou
   - figure out dinner plans for their date - that serves vegan food - "dinner + date?"
   - not terribly out of the way - what else could we do nearby?
 
-*Planning Pam* - repeat customer, "just loves Central Cinema," "her girlfriends just wanna have fun!"
+**Planning Pam** - repeat customer, "just loves Central Cinema," "her girlfriends just wanna have fun!"
 
 - Demographics:
   - mid 40's
@@ -62,7 +64,7 @@ We discussed what we needed to include in our personas, including things we shou
   - make sure restaurant and theatre can accommodate her group
   - be informed about ingredients on the food in case someone has dietary restrictions or food allergies
 
-**Task Matrix**
+### Task Matrix
 
 
 
