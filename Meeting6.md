@@ -66,8 +66,24 @@ We discussed what we needed to include in our personas, including things we shou
 
 ### Task Matrix
 
+We created a task matrix for our personas to synthesize what we understand to be the most important tasks for each. 
 
+1 = Primary task
+2 = Secondary task
 
+| Top Tasks | Dave | Pam |
+|-----------|------|-----|
+| Check movie times | 1 | 1 |
+| Check food and drinks menu | 1 | |
+| Purchase tickets | 1 | 1 |
+| Find info on special events | | 1 |
+| Find info about the venue | 1 | 2 |
+| Find answers on FAQs | 2 | |
+| Sign up for the newsletter | | 2 | 
+| Provide feedback and suggestions | | 2 | 
+| Suggest movies to show | | 2 |
+| Rent the venue for a private event | | |
+| Find job opportunities | | |
 
 ## Next Steps
 
