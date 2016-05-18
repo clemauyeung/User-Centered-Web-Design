@@ -66,7 +66,7 @@ We discussed what we needed to include in our personas, including things we shou
 
 ### Task Matrix
 
-We created a task matrix for our personas to synthesize what we understand to be the most important tasks for each. 
+We created a task matrix for our personas to synthesize what we understand to be the most important tasks for each one. 
 
 1 = Primary task
 2 = Secondary task
@@ -85,10 +85,12 @@ We created a task matrix for our personas to synthesize what we understand to be
 | Rent the venue for a private event | | |
 | Find job opportunities | | |
 
+We will use the task matrix to create cards for the card sort and eventually form the information architecture for the site.
+
 ## Next Steps
 
 - Spencer write content for Dating Dave aka "Boyfriend Brad"
 - Clem write content for Planning Pam
 - Nikil create visual design of persona
 - Setu and Demi edit persona content
-- Setu set up OptimalSort (create account)
+- Setu set up Optimal Sort (create account)
