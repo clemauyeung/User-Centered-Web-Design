@@ -121,7 +121,7 @@ We didn't get to these action items, so we will plan to address these in class
 - Decide who the competitors are and which ones to use for competitive analysis
 - Fill out as much of the Project Plan as we can
 
-##Next Steps
+## Next Steps
 
 - Create survey for team to review -- by Wednesday --  Demi is the owner
 - Email Kevin about data request, sending out survey link, offer to install Google Analytics -- by Wednesday -- Spencer is the owner
